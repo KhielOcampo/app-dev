@@ -4,9 +4,10 @@
 
 ## Key Information
 
-- **Genre**: Family, Comedy
+- **Genre**: Family, Comedy, Adventure
 - **Runtime**: 1h 33minutes
-- **Director**: Aaron Blabey
+- **Director**: Jared Hess, Lynnn Wang
+- **Release Date:** 2024-05-17
 - **Available on**: Netflix
 
 ## Why I Like It
