@@ -5,7 +5,7 @@
 ## Key Information
 
 - **Genre**: Family, Comedy
-- **Runtime**: 13 minutes
+- **Runtime**: 1h 33minutes
 - **Director**: Aaron Blabey
 - **Available on**: Netflix
 
